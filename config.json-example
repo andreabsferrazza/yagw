@@ -1,0 +1,7 @@
+{
+  "basePath": ".",
+  "maxDepth": 3,
+  "enableClearScreen": true,
+  "noParallel":false,
+  "excludedFolders": ["node_modules", "target", ".idea", ".vscode", "build", "out"]
+}
